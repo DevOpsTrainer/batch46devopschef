@@ -1,0 +1,8 @@
+default["batch46apache"]["author"] = "DevOps"
+default["batch46apache"]["course"] = "Configuraiton Management"
+default["batch46apache"]["prod_dbhostname"] = "172.168.6.0"
+default["batch46apache"]["prod_dbusername"] = "ods_user"
+default["batch46apache"]["prod_dbpassword"] = "welcome"
+default["batch46apache"]["dev_dbhostname"] = "172.168.6.0"
+default["batch46apache"]["dev_dbusername"] = "ods_user"
+default["batch46apache"]["dev_dbpassword"] = "welcome"
