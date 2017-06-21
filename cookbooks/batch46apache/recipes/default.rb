@@ -20,7 +20,7 @@ service "httpd" do
 end
 
 file '/var/www/html/index.html' do
-	content 'Hello Chef Configuration Managment batch46'
+	content 'Hello Chef Configuration Managment batch46 change'
 	mode '0775'
 	owner 'root'
 	group 'apache'
